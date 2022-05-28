@@ -1,0 +1,1 @@
+\copy public.shipping FROM 'sql_scr/shipping.csv' DELIMITER ',' CSV
